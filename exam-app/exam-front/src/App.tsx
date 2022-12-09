@@ -6,7 +6,6 @@ import './App.css';
 import AddHistoryForm from './components/AddHistoryForm';
 import AddPatientForm from './components/AddPatientForm';
 import HomeMenu from './components/HomeMenu';
-import PatientHistory from './components/PatientHistory';
 import PatientTable from './components/PatientsTable';
 
 const App: React.FunctionComponent = () => {
